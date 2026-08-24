@@ -1,4 +1,4 @@
-
+![EEG](EEG.png)
 # 🧠 EEG-Based Mental Workload Classification
 
 ### Machine Learning for EEG Signal Analysis and Cognitive Workload Assessment
