@@ -467,7 +467,6 @@ The training pipeline uses packages including:
 ```bash
 pip install numpy pandas scipy scikit-learn matplotlib mne nolds pillow joblib customtkinter imageio
 ```
-The project currently contains package-installation logic inside the training script. For a cleaner and more reproducible project, a requirements.txt file is recommended.
 
 # 📂 Dataset
 
@@ -486,7 +485,7 @@ and ending in:
 ```text
 .mat
 ```
-The dataset itself is not documented here as being redistributed by this repository. If the dataset has access or licensing restrictions, obtain it from its original source rather than uploading restricted participant data to GitHub.
+
 # ▶️ Training the Model
 
 After placing the dataset in the expected directory structure, run:
